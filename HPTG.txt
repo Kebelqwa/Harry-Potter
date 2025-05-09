@@ -4,7 +4,7 @@
 	        "mana_cost": "{R}{G}{W}{U}",
 	        "type": "Legendary Creature — Albus ",
 	        "image_uris": {
-	            "en": "Albus Dumbledore, Hogwarts Headmaster.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Albus Dumbledore, Hogwarts Headmaster.png"
 	        },
 	        "printed names": {
 	            "en": "Albus Dumbledore, Hogwarts Headmaster"
@@ -15,7 +15,7 @@
 	                "en": "Albus Dumbledore, Death Embodied"
 	            },
 	            "image_uris": {
-	                "en": "Albus Dumbledore, Death Embodied.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Albus Dumbledore, Death Embodied.png"
 	            },
 	            "type": "Legendary Planeswalker — Albus "
 	        }
@@ -70,7 +70,7 @@
 	        "mana_cost": "{2}{U}{B}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "Tom Riddle, Heir of Slytherin.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Tom Riddle, Heir of Slytherin.png"
 	        },
 	        "printed names": {
 	            "en": "Tom Riddle, Heir of Slytherin"
@@ -81,7 +81,7 @@
 	                "en": "Lord Voldemort, The Dark Lord"
 	            },
 	            "image_uris": {
-	                "en": "Lord Voldemort, The Dark Lord.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Lord Voldemort, The Dark Lord.png"
 	            },
 	            "type": "Legendary Creature — Human Wizard "
 	        }
@@ -91,7 +91,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Legendary Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "Tom Riddles Diary.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Tom Riddles Diary.png"
 	        },
 	        "printed names": {
 	            "en": "Tom Riddles Diary"
@@ -102,7 +102,7 @@
 	                "en": "Memory of Tom Riddle"
 	            },
 	            "image_uris": {
-	                "en": "Memory of Tom Riddle.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Memory of Tom Riddle.png"
 	            },
 	            "type": "Legendary Creature — Spirit Wizard "
 	        }
@@ -112,7 +112,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Legendary Creature — Human Beast ",
 	        "image_uris": {
-	            "en": "Nagini, Maladictus Performer.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Nagini, Maladictus Performer.png"
 	        },
 	        "printed names": {
 	            "en": "Nagini, Maladictus Performer"
@@ -123,7 +123,7 @@
 	                "en": "Nagini, Loyal Darklord Servant"
 	            },
 	            "image_uris": {
-	                "en": "Nagini, Loyal Darklord Servant.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Nagini, Loyal Darklord Servant.png"
 	            },
 	            "type": "Legendary Creature — Snake "
 	        }
@@ -142,7 +142,7 @@
 	        "mana_cost": "{2}{R}{G}{W}",
 	        "type": "Legendary Creature — Cat Animagus ",
 	        "image_uris": {
-	            "en": "Professor McGonagall, Watchful Observer.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Professor McGonagall, Watchful Observer.png"
 	        },
 	        "printed names": {
 	            "en": "Professor McGonagall, Watchful Observer"
@@ -153,7 +153,7 @@
 	                "en": "Minerva McGonagall, Head of Gryffindor"
 	            },
 	            "image_uris": {
-	                "en": "Minerva McGonagall, Head of Gryffindor.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Minerva McGonagall, Head of Gryffindor.png"
 	            },
 	            "type": "Legendary Creature — Wizard Animagus "
 	        }
@@ -757,7 +757,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Legendary Creature — Rat ",
 	        "image_uris": {
-	            "en": "Scabbers, Frightend Coward.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Scabbers, Frightend Coward.png"
 	        },
 	        "printed names": {
 	            "en": "Scabbers, Frightend Coward"
@@ -768,7 +768,7 @@
 	                "en": "Peter Pettigrew, Traitorus Maruader"
 	            },
 	            "image_uris": {
-	                "en": "Peter Pettigrew, Traitorus Maruader.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Peter Pettigrew, Traitorus Maruader.png"
 	            },
 	            "type": "Legendary Creature — Animagus Wizard "
 	        }
@@ -796,7 +796,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "Gaunt Family Ring.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Gaunt Family Ring.png"
 	        },
 	        "printed names": {
 	            "en": "Gaunt Family Ring"
@@ -807,7 +807,7 @@
 	                "en": "The Resurrection Stone"
 	            },
 	            "image_uris": {
-	                "en": "The Resurrection Stone.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/The Resurrection Stone.png"
 	            },
 	            "type": "Legendary Artifact"
 	        }
@@ -853,7 +853,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Legendary Creature — Human Werewolf Wizard ",
 	        "image_uris": {
-	            "en": "Professor Lupin, Master of the Dark Arts.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Professor Lupin, Master of the Dark Arts.png"
 	        },
 	        "printed names": {
 	            "en": "Professor Lupin, Master of the Dark Arts"
@@ -864,7 +864,7 @@
 	                "en": "Maurauder Lupin, Lycanthropic Striken"
 	            },
 	            "image_uris": {
-	                "en": "Maurauder Lupin, Lycanthropic Striken.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Maurauder Lupin, Lycanthropic Striken.png"
 	            },
 	            "type": "Legendary Creature — Werewolf Beast "
 	        }
@@ -1108,7 +1108,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "Rita Skeeter, Gossip Reporter.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Rita Skeeter, Gossip Reporter.png"
 	        },
 	        "printed names": {
 	            "en": "Rita Skeeter, Gossip Reporter"
@@ -1119,7 +1119,7 @@
 	                "en": "Rita Skeeter, Hidden Beetle"
 	            },
 	            "image_uris": {
-	                "en": "Rita Skeeter, Hidden Beetle.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Rita Skeeter, Hidden Beetle.png"
 	            },
 	            "type": "Legendary Creature — Insect Animagus "
 	        }
@@ -1255,7 +1255,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Explore the Restricted Section.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Explore the Restricted Section.png"
 	        },
 	        "printed names": {
 	            "en": "Explore the Restricted Section"
@@ -1266,7 +1266,7 @@
 	                "en": "Hogwart's Hidden Map Room"
 	            },
 	            "image_uris": {
-	                "en": "Hogwart's Hidden Map Room.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Hogwart's Hidden Map Room.png"
 	            },
 	            "type": "Legendary Land"
 	        }
@@ -1276,7 +1276,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Department of Mysteries.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Department of Mysteries.png"
 	        },
 	        "printed names": {
 	            "en": "Department of Mysteries"
@@ -1287,7 +1287,7 @@
 	                "en": "Mystified Archway"
 	            },
 	            "image_uris": {
-	                "en": "Mystified Archway.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mystified Archway.png"
 	            },
 	            "type": "Artifact"
 	        }
@@ -1306,7 +1306,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Skirmish in Underground Chambers.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Skirmish in Underground Chambers.png"
 	        },
 	        "printed names": {
 	            "en": "Skirmish in Underground Chambers"
@@ -1317,7 +1317,7 @@
 	                "en": "Mirror of Erised"
 	            },
 	            "image_uris": {
-	                "en": "Mirror of Erised.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mirror of Erised.png"
 	            },
 	            "type": "Legendary Artifact"
 	        }
@@ -1345,7 +1345,7 @@
 	        "mana_cost": "{X}{X}{X}{3}{B}{B}{B}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Portkey to Little Hangleton Graveyard.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Portkey to Little Hangleton Graveyard.png"
 	        },
 	        "printed names": {
 	            "en": "Portkey to Little Hangleton Graveyard"
@@ -1356,7 +1356,7 @@
 	                "en": "Charmed Skeleton"
 	            },
 	            "image_uris": {
-	                "en": "Charmed Skeleton.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Charmed Skeleton.png"
 	            },
 	            "type": "Creature — Skeleton "
 	        }
@@ -1375,7 +1375,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Tradgey at the World Cup.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Tradgey at the World Cup.png"
 	        },
 	        "printed names": {
 	            "en": "Tradgey at the World Cup"
@@ -1386,7 +1386,7 @@
 	                "en": "Foreboding Warning"
 	            },
 	            "image_uris": {
-	                "en": "Foreboding Warning.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Foreboding Warning.png"
 	            },
 	            "type": "Sorcery"
 	        }
@@ -1396,7 +1396,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Journey Beneath Gringotts Bank.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Journey Beneath Gringotts Bank.png"
 	        },
 	        "printed names": {
 	            "en": "Journey Beneath Gringotts Bank"
@@ -1407,7 +1407,7 @@
 	                "en": "Wounded Ukranian Iron Belly"
 	            },
 	            "image_uris": {
-	                "en": "Wounded Ukranian Iron Belly.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Wounded Ukranian Iron Belly.png"
 	            },
 	            "type": "Creature — Dragon Beast Mount "
 	        }
@@ -1471,7 +1471,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Chase the Hidden Traitor.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Chase the Hidden Traitor.png"
 	        },
 	        "printed names": {
 	            "en": "Chase the Hidden Traitor"
@@ -1482,7 +1482,7 @@
 	                "en": "Hermione's Time Turner"
 	            },
 	            "image_uris": {
-	                "en": "Hermione's Time Turner.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Hermione's Time Turner.png"
 	            },
 	            "type": "Legendary Artifact"
 	        }
@@ -1573,7 +1573,7 @@
 	        "mana_cost": "{2}{R/G}{W}{U}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Flight of the Seven Potters.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Flight of the Seven Potters.png"
 	        },
 	        "printed names": {
 	            "en": "Flight of the Seven Potters"
@@ -1584,7 +1584,7 @@
 	                "en": "Honor the Fallen Ally"
 	            },
 	            "image_uris": {
-	                "en": "Honor the Fallen Ally.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Honor the Fallen Ally.png"
 	            },
 	            "type": "Instant"
 	        }
@@ -1855,7 +1855,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Legendary Creature — Cat ",
 	        "image_uris": {
-	            "en": "Mrs. Norris.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mrs. Norris.png"
 	        },
 	        "printed names": {
 	            "en": "Mrs. Norris"
@@ -1866,7 +1866,7 @@
 	                "en": "Argus Filch, Dungeons Caretaker"
 	            },
 	            "image_uris": {
-	                "en": "Argus Filch, Dungeons Caretaker.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Argus Filch, Dungeons Caretaker.png"
 	            },
 	            "type": "Legendary Creature — Human Squib "
 	        }
@@ -1903,7 +1903,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "Alaster Moody, Maddened Aurour.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Alaster Moody, Maddened Aurour.png"
 	        },
 	        "printed names": {
 	            "en": "Alaster Moody, Maddened Aurour"
@@ -1914,7 +1914,7 @@
 	                "en": "Barty Crouch Jr, Dark Arts Infiltraitor"
 	            },
 	            "image_uris": {
-	                "en": "Barty Crouch Jr, Dark Arts Infiltraitor.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Barty Crouch Jr, Dark Arts Infiltraitor.png"
 	            },
 	            "type": "Legendary Creature — Human Wizard "
 	        }
@@ -2122,7 +2122,7 @@
 	        "mana_cost": "{2}{B}{U}{R/G}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Beneath Hogwarts Plumbing.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Beneath Hogwarts Plumbing.png"
 	        },
 	        "printed names": {
 	            "en": "Beneath Hogwarts Plumbing"
@@ -2133,7 +2133,7 @@
 	                "en": "Salazar Slytherin's Basilisk"
 	            },
 	            "image_uris": {
-	                "en": "Salazar Slytherin's Basilisk.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Salazar Slytherin's Basilisk.png"
 	            },
 	            "type": "Legendary Creature — Snake Beast "
 	        }
@@ -2296,7 +2296,7 @@
 	        "mana_cost": "{X}{X}{1}{G}",
 	        "type": "Artifact Creature — Beast Incantation ",
 	        "image_uris": {
-	            "en": "The Monster Book of Monsters.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/The Monster Book of Monsters.png"
 	        },
 	        "printed names": {
 	            "en": "The Monster Book of Monsters"
@@ -2307,7 +2307,7 @@
 	                "en": "Folio Bruti"
 	            },
 	            "image_uris": {
-	                "en": "Folio Bruti.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Folio Bruti.png"
 	            },
 	            "type": "Artifact — Book "
 	        }
@@ -2434,7 +2434,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Follow the Spiders.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Follow the Spiders.png"
 	        },
 	        "printed names": {
 	            "en": "Follow the Spiders"
@@ -2445,7 +2445,7 @@
 	                "en": "Weasley Ford Angela"
 	            },
 	            "image_uris": {
-	                "en": "Weasley Ford Angela.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Weasley Ford Angela.png"
 	            },
 	            "type": "Legendary Artifact — Vehicle "
 	        }
@@ -2599,7 +2599,7 @@
 	        "mana_cost": "{3}{W}{B}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Battle of Hogwarts.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Battle of Hogwarts.png"
 	        },
 	        "printed names": {
 	            "en": "Battle of Hogwarts"
@@ -2610,7 +2610,7 @@
 	                "en": "The Elder Wand"
 	            },
 	            "image_uris": {
-	                "en": "The Elder Wand.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/The Elder Wand.png"
 	            },
 	            "type": "Legendary Artifact — Equipment "
 	        }
@@ -2737,7 +2737,7 @@
 	        "mana_cost": "{W}{W}{W}",
 	        "type": "Legendary Creature — Dog Animagus ",
 	        "image_uris": {
-	            "en": "Padfoot, Protective Marauder.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Padfoot, Protective Marauder.png"
 	        },
 	        "printed names": {
 	            "en": "Padfoot, Protective Marauder"
@@ -2748,7 +2748,7 @@
 	                "en": "Sirius Black, Angered Outcast"
 	            },
 	            "image_uris": {
-	                "en": "Sirius Black, Angered Outcast.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Sirius Black, Angered Outcast.png"
 	            },
 	            "type": "Legendary Creature — Human Wizard "
 	        }
@@ -2819,20 +2819,20 @@
 	    {
 	        "name": "Trial of the Wizengamot",
 	        "mana_cost": "{X}{X}{W}{W}",
-	        "type": "Legendary Battle — Siege ",
+	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "Trial of the Wizengamot.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Trial of the Wizengamot.png"
 	        },
 	        "printed names": {
 	            "en": "Trial of the Wizengamot"
 	        },
 	        "back": {
-	            "name": "Formation of Dumoldore's Army",
+	            "name": "March of Dumbledore's Army",
 	            "printed_names": {
-	                "en": "Formation of Dumoldore's Army"
+	                "en": "March of Dumbledore's Army"
 	            },
 	            "image_uris": {
-	                "en": "Formation of Dumoldore's Army.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/March of Dumbledore's Army.png"
 	            },
 	            "type": "Sorcery"
 	        }
@@ -2905,7 +2905,7 @@
 	        "mana_cost": "{3}{U}{U}{U}",
 	        "type": "Artifact — Book ",
 	        "image_uris": {
-	            "en": "Folio Magi.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Folio Magi.png"
 	        },
 	        "printed names": {
 	            "en": "Folio Magi"
@@ -2916,7 +2916,7 @@
 	                "en": "Famous Wizards Trading Card"
 	            },
 	            "image_uris": {
-	                "en": "Famous Wizards Trading Card.png"
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Famous Wizards Trading Card.png"
 	            },
 	            "type": "Enchantment"
 	        }
