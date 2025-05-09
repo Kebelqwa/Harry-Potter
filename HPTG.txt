@@ -1680,57 +1680,57 @@
 	        }
 	    },
 	    {
-	        "name": "Island",
+	        "name": "Island2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Island.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Island2.png"
 	        }
 	    },
 	    {
-	        "name": "Forest",
+	        "name": "Forest1",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Forest.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Forest1.png"
 	        }
 	    },
 	    {
-	        "name": "Plains",
+	        "name": "Plains2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Plains.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Plains2.png"
 	        }
 	    },
 	    {
-	        "name": "Island",
+	        "name": "Island1",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Island.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Island1.png"
 	        }
 	    },
 	    {
-	        "name": "Swamp",
+	        "name": "Swamp3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Swamp.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Swamp3.png"
 	        }
 	    },
 	    {
-	        "name": "Mountain",
+	        "name": "Mountain3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mountain.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mountain3.png"
 	        }
 	    },
 	    {
@@ -1983,12 +1983,57 @@
 	        }
 	    },
 	    {
-	        "name": "Plains",
+	        "name": "Plains3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Plains.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Plains3.png"
+	        }
+	    },
+	    {
+	        "name": "Island3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Island3.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Swamp2.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mountain1.png"
+	        }
+	    },
+	    {
+	        "name": "Forest2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Forest2.png"
+	        }
+	    },
+	    {
+	        "name": "Plains1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Plains1.png"
 	        }
 	    },
 	    {
@@ -2001,75 +2046,30 @@
 	        }
 	    },
 	    {
-	        "name": "Swamp",
+	        "name": "Swamp1",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Swamp.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Swamp1.png"
 	        }
 	    },
 	    {
-	        "name": "Mountain",
+	        "name": "Mountain2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mountain.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mountain2.png"
 	        }
 	    },
 	    {
-	        "name": "Forest",
+	        "name": "Forest3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Forest.png"
-	        }
-	    },
-	    {
-	        "name": "Plains",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Plains ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Plains.png"
-	        }
-	    },
-	    {
-	        "name": "Island",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Island ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Island.png"
-	        }
-	    },
-	    {
-	        "name": "Swamp",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Swamp ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Swamp.png"
-	        }
-	    },
-	    {
-	        "name": "Mountain",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Mountain ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mountain.png"
-	        }
-	    },
-	    {
-	        "name": "Forest",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Forest ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Forest.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Forest3.png"
 	        }
 	    },
 	    {
@@ -3030,42 +3030,6 @@
 	        }
 	    },
 	    {
-	        "name": "",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/.png"
-	        }
-	    },
-	    {
-	        "name": "",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/.png"
-	        }
-	    },
-	    {
-	        "name": "",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/.png"
-	        }
-	    },
-	    {
-	        "name": "",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/.png"
-	        }
-	    },
-	    {
 	        "name": "Death Eater Token;",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -3388,23 +3352,23 @@
 		6 Enchanted Field Guide
 	[BasicSlot(1)]
 		300 Plains
-		300 Island
+		300 Island2
+		300 Forest1
+		300 Plains2
+		300 Island1
+		300 Swamp3
+		300 Mountain3
 		300 Forest
-		300 Plains
-		300 Island
 		300 Swamp
 		300 Mountain
-		300 Forest
-		300 Swamp
-		300 Mountain
-		300 Plains
+		300 Plains3
+		300 Island3
+		300 Swamp2
+		300 Mountain1
+		300 Forest2
+		300 Plains1
 		300 Island
-		300 Swamp
-		300 Mountain
-		300 Forest
-		300 Plains
-		300 Island
-		300 Swamp
-		300 Mountain
-		300 Forest
+		300 Swamp1
+		300 Mountain2
+		300 Forest3
 	

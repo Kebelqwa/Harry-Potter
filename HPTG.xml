@@ -2782,7 +2782,7 @@ Whenever this creature attacks, any player may pay {X}, where X is this creature
       <text></text>
     </card>
     <card>
-      <name>Island</name>
+      <name>Island2</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -2795,7 +2795,7 @@ Whenever this creature attacks, any player may pay {X}, where X is this creature
       <text></text>
     </card>
     <card>
-      <name>Forest</name>
+      <name>Forest1</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -2808,7 +2808,7 @@ Whenever this creature attacks, any player may pay {X}, where X is this creature
       <text></text>
     </card>
     <card>
-      <name>Plains</name>
+      <name>Plains2</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -2821,7 +2821,7 @@ Whenever this creature attacks, any player may pay {X}, where X is this creature
       <text></text>
     </card>
     <card>
-      <name>Island</name>
+      <name>Island1</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -2834,7 +2834,7 @@ Whenever this creature attacks, any player may pay {X}, where X is this creature
       <text></text>
     </card>
     <card>
-      <name>Swamp</name>
+      <name>Swamp3</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -2847,7 +2847,7 @@ Whenever this creature attacks, any player may pay {X}, where X is this creature
       <text></text>
     </card>
     <card>
-      <name>Mountain</name>
+      <name>Mountain3</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -3273,7 +3273,7 @@ Trample
 Gets +1/+1 for each wizard you control.</text>
     </card>
     <card>
-      <name>Plains</name>
+      <name>Plains3</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -3286,7 +3286,7 @@ Gets +1/+1 for each wizard you control.</text>
       <text></text>
     </card>
     <card>
-      <name>Island</name>
+      <name>Island3</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -3299,7 +3299,7 @@ Gets +1/+1 for each wizard you control.</text>
       <text></text>
     </card>
     <card>
-      <name>Swamp</name>
+      <name>Swamp2</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -3312,7 +3312,7 @@ Gets +1/+1 for each wizard you control.</text>
       <text></text>
     </card>
     <card>
-      <name>Mountain</name>
+      <name>Mountain1</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -3325,7 +3325,7 @@ Gets +1/+1 for each wizard you control.</text>
       <text></text>
     </card>
     <card>
-      <name>Forest</name>
+      <name>Forest2</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -3338,7 +3338,7 @@ Gets +1/+1 for each wizard you control.</text>
       <text></text>
     </card>
     <card>
-      <name>Plains</name>
+      <name>Plains1</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -3364,7 +3364,7 @@ Gets +1/+1 for each wizard you control.</text>
       <text></text>
     </card>
     <card>
-      <name>Swamp</name>
+      <name>Swamp1</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -3377,7 +3377,7 @@ Gets +1/+1 for each wizard you control.</text>
       <text></text>
     </card>
     <card>
-      <name>Mountain</name>
+      <name>Mountain2</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
@@ -3390,7 +3390,7 @@ Gets +1/+1 for each wizard you control.</text>
       <text></text>
     </card>
     <card>
-      <name>Forest</name>
+      <name>Forest3</name>
       <set rarity="">HPTG</set>
       <prop>
         <colors></colors>
