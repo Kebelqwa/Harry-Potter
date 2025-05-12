@@ -1,26 +1,5 @@
 [CustomCards]
 	[    {
-	        "name": "Albus Dumbledore, Hogwarts Headmaster",
-	        "mana_cost": "{R}{G}{W}{U}",
-	        "type": "Legendary Creature — Albus ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Albus Dumbledore, Hogwarts Headmaster.png"
-	        },
-	        "printed names": {
-	            "en": "Albus Dumbledore, Hogwarts Headmaster"
-	        },
-	        "back": {
-	            "name": "Albus Dumbledore, Death Embodied",
-	            "printed_names": {
-	                "en": "Albus Dumbledore, Death Embodied"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Albus Dumbledore, Death Embodied.png"
-	            },
-	            "type": "Legendary Planeswalker — Albus "
-	        }
-	    },
-	    {
 	        "name": "The Sorting Hat",
 	        "rarity": "rare",
 	        "mana_cost": "{3}",
@@ -538,7 +517,7 @@
 	    },
 	    {
 	        "name": "Winery Cellar",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
@@ -547,7 +526,7 @@
 	    },
 	    {
 	        "name": "Castle Heights",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
@@ -556,7 +535,7 @@
 	    },
 	    {
 	        "name": "Dungeon Depths",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
@@ -565,7 +544,7 @@
 	    },
 	    {
 	        "name": "Adorned Halls",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
@@ -574,7 +553,7 @@
 	    },
 	    {
 	        "name": "Pureblood Manner",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
@@ -2478,12 +2457,12 @@
 	        }
 	    },
 	    {
-	        "name": "The Dursleys, Anit-Magic Enthusiasts",
+	        "name": "The Dursleys, Anti-Magic Enthusiasts",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}",
 	        "type": "Legendary Creature — Human Muggle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/The Dursleys, Anit-Magic Enthusiasts.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/The Dursleys, Anti-Magic Enthusiasts.png"
 	        }
 	    },
 	    {
@@ -2895,7 +2874,7 @@
 	        "name": "Portkey",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Token Artifact",
+	        "type": "Token Artifact — Portkey ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Portkey.png"
 	        }
@@ -2934,7 +2913,7 @@
 	        "name": "Food",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Token Artifact",
+	        "type": "Token Artifact — Food ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Food.png"
 	        }
@@ -2943,7 +2922,7 @@
 	        "name": "Treasure",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Token Artifact",
+	        "type": "Token Artifact — Treasure ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Treasure.png"
 	        }
@@ -2970,7 +2949,7 @@
 	        "name": "Clue",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Token Artifact",
+	        "type": "Token Artifact — Clue ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Clue.png"
 	        }
@@ -3067,11 +3046,68 @@
 	    },
 	    {
 	        "name": "Red Cap Tower Guard Token;",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Goblin Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Red Cap Tower Guard Token;.png"
+	        }
+	    },
+	    {
+	        "name": "Snatcher",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Werewolf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Snatcher.png"
+	        }
+	    },
+	    {
+	        "name": "Ministry Tribunal",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Ministry Tribunal.png"
+	        }
+	    },
+	    {
+	        "name": "Student",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Student.png"
+	        }
+	    },
+	    {
+	        "name": "Bowtruckle Token;",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Plant Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Bowtruckle Token;.png"
+	        }
+	    },
+	    {
+	        "name": "Albus Dumbledore",
+	        "mana_cost": "{R}{G}{W}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Albus Dumbledore.png"
+	        },
+	        "printed names": {
+	            "en": "Albus Dumbledore"
+	        },
+	        "back": {
+	            "name": "Albus Dumbledore, Death Embodied",
+	            "printed_names": {
+	                "en": "Albus Dumbledore, Death Embodied"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Albus Dumbledore, Death Embodied.png"
+	            },
+	            "type": "Legendary Planeswalker — Albus "
 	        }
 	    }
 	]
@@ -3134,7 +3170,6 @@
 		2 Sybill Trelawney, Unreliable Seer
 		2 Trial of the Wizengamot
 		2 Wondering Hinkypunk
-		1 Albus Dumbledore, Hogwarts Headmaster
 		1 Tom Riddle, Heir of Slytherin
 		1 Professor McGonagall, Watchful Observer
 		1 Severus Snape, Head of Slytherin House
@@ -3152,6 +3187,7 @@
 		1 Ancient Magic Traces
 		1 The British Prime Minister
 		1 Magicus Extremos
+		1 Albus Dumbledore
 	[UncommonSlot(4)]
 		4 Expelliarmus
 		4 Nagini, Maladictus Performer
@@ -3160,11 +3196,6 @@
 		4 Focus Potion
 		4 Crab & Goyle
 		4 Langlock
-		4 Winery Cellar
-		4 Castle Heights
-		4 Dungeon Depths
-		4 Adorned Halls
-		4 Pureblood Manner
 		4 Nymphadora Tonks, Metamorphmagus Auror
 		4 Obscurial Parasite
 		4 Amazonian Fire Salamander Pit
@@ -3209,7 +3240,7 @@
 		4 Standard Book of Spells
 		4 Dragon Hide Gloves
 		4 Snatcher Camp
-		4 The Dursleys, Anit-Magic Enthusiasts
+		4 The Dursleys, Anti-Magic Enthusiasts
 		4 Volamucus
 		4 Animated Torch
 		4 Gringotts Banking Goblin
@@ -3227,7 +3258,6 @@
 		4 Chocolate Frog
 		4 Marietta Edgecomb, Ministry Sneak
 		4 Gilleyweed
-		4 Red Cap Tower Guard Token;
 	[CommonSlot(8)]
 		6 Inferius
 		6 Wiggenweld Potion
@@ -3255,6 +3285,11 @@
 		6 Sectumsempera
 		6 Cornish Pixie
 		6 Levicorpus
+		6 Winery Cellar
+		6 Castle Heights
+		6 Dungeon Depths
+		6 Adorned Halls
+		6 Pureblood Manner
 		6 Introduction to Charms
 		6 Introduction to Herbology
 		6 Engorgio

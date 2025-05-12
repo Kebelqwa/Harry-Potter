@@ -10,39 +10,6 @@
   <cards>
 
     <card>
-      <name>Albus Dumbledore, Hogwarts Headmaster</name>
-      <set rarity="mythic" splitterPath="/Albus Dumbledore, Hogwarts Headmaster.png" >HPTG</set>
-      <prop>
-        <colors>WURG</colors>
-        <manacost>RGWU</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Albus </type>
-        <maintype>Creature</maintype>
-        <pt>5/5</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>
----
-(Back): Albus Dumbledore, Death Embodied</text>
-      <related attach="transform">Albus Dumbledore, Death Embodied</related>
-    </card>
-    <card>
-      <name>Albus Dumbledore, Death Embodied</name>
-      <set rarity="mythic" splitterPath="/Albus Dumbledore, Death Embodied.png" >HPTG</set>
-      <prop>
-        <colors>WURG</colors>
-        <manacost></manacost>
-        <cmc>4</cmc>
-        <type>Legendary Planeswalker - Albus </type>
-        <loyalty>5</loyalty>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>
----
-(Front): Albus Dumbledore, Hogwarts Headmaster</text>
-      <related attach="transform">Albus Dumbledore, Hogwarts Headmaster</related>
-    </card>
-    <card>
       <name>The Sorting Hat</name>
       <set rarity="rare">HPTG</set>
       <prop>
@@ -54,11 +21,11 @@
       </prop>
       <tablerow>1</tablerow>
       <text>As The Sorting Hat enters choose one —
-Gryffindor — {T}: Add{R/G/W}.
-Hufflepuff — {T}: Add {B/G/W}.
-Ravenclaw — {T}: Add {R/W/U}.
-Slytherin — {T}: Add {G/U/B}.
-Azkaban — {T}: Add {U/B/R}.</text>
+Gryffindor — {T}: Add {R}, {G}, or {W}.
+Hufflepuff — {T}: Add {W}, {B}, or {G}.
+Ravenclaw — {T}: Add {U}, {R}, or {W}.
+Slytherin — {T}: Add {B}, {G}, or {U}.
+Azkaban — {T}: Add {U}, {B}, or {R}.</text>
     </card>
     <card>
       <name>Expelliarmus</name>
@@ -128,7 +95,7 @@ The controller of target creature an opponent controls discards a card. If they 
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ward Pays X life. where X is that spell’s mana value.
+      <text>Ward—Pay X life, where X is that spell’s mana value. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays X life and where X is that spell’s mana value.)
 Whenever an opponent pays life choose one — 
 •  You gain that much life.
 •  Create an X/X black deathtouch Snake creature token, where X is equal to the amount of life lost this way..
@@ -239,7 +206,9 @@ As long as you control Lord Voldemort, The Dark Lord, Nagini, Loyal Darklord Ser
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1UBR, {T}: Fenrir Grayback deals 2 damage to any target nontoken nonartifact creature. Then create a 2/2 black and red Werewolf creature token named Snatcher with haste and a treasure token.</text>
+      <text>1UBR, {T}: Fenrir Grayback deals 2 damage to any target nontoken nonartifact creature. Then create a 2/2 black and red Werewolf Wizard creature token named Snatcher with haste and a treasure token.</text>
+      <related>Snatcher</related>
+      <related>Reviewed Christmas 2024</related>
     </card>
     <card>
       <name>Professor McGonagall, Watchful Observer</name>
@@ -255,8 +224,9 @@ As long as you control Lord Voldemort, The Dark Lord, Nagini, Loyal Darklord Ser
       <tablerow>2</tablerow>
       <text>Vigilance
 Alteration R/G/WR/G/W (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for R/G/WR/G/W.)
-Face down spells you cast cost 1R/G/W less to cast.Spells you cast from the battlefield cost 1R/G/W less to cast.
-R/G/WR/G/W: Transform Professor McGonagall, Watchful Observer. Learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+Face down spells you cast cost {2} less to cast.
+Spells you cast from the battlefield cost {2} less to cast.
+R/G/WR/G/W: Transform Professor McGonagall, Watchful Observer. Then learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 ---
 (Back): Minerva McGonagall, Head of Gryffindor</text>
       <related attach="transform">Minerva McGonagall, Head of Gryffindor</related>
@@ -272,9 +242,9 @@ R/G/WR/G/W: Transform Professor McGonagall, Watchful Observer. Learn. (you may r
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When you cast a spell from the battlefield, creatures you control get +0/+2 and gain gallantry 1 until end of turn. (When a creature enters or attacks under an opponent’s control with greater power then this creature and this creature isn’t couageous, put a +1/+1 counter on it and it becomes couageous.)
+      <text>Whenever you cast a spell from the battlefield, creatures you control get +0/+2 and gain gallant 1 until end of turn. (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
 Each Incantation card in your hand has alteration. Its alteration cost is equal to its mana cost.
-R/G/WR/G/W: Transform Minerva McGonagall. Learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+R/G/WR/G/W: Transform Minerva McGonagall. Then learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 ---
 (Front): Professor McGonagall, Watchful Observer</text>
       <related attach="transform">Professor McGonagall, Watchful Observer</related>
@@ -291,9 +261,9 @@ R/G/WR/G/W: Transform Minerva McGonagall. Learn. (you may reveal a Lesson card y
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Presence — Mill a card: Whenever a creature you control enters, you may mill a card. If you do learn (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
-Whenever you learn, you may search your library for a Potion card and add it to your hand instead.
-1BGU, Discard a non-Potion card:  Return target Potion card from your graveyard to the battlefield.</text>
+      <text>Whenever a creature you control enters, you may mill a card. If you do learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+If you would learn, you may instead search your library for a Potion card, reveal it, put it into your hand, then shuffle.
+1BGU, Discard a non-Potion card: Return target Potion card from your graveyard to the battlefield.</text>
     </card>
     <card>
       <name>Filius Flitwick, Head of Ravenclaw House</name>
@@ -471,6 +441,7 @@ As long as you control Lord Voldemort, The Dark Lord, you may look at the top ca
       <tablerow>2</tablerow>
       <text>Squad—4 life (As an additional cost to cast this spell, you may pay 4 life any number of times. When this creature enters, create that many tokens that are copies of it.)
 Decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <related>Inferi Hoard Token</related>
     </card>
     <card>
       <name>Armored Mountain Troll</name>
@@ -500,7 +471,7 @@ Decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</te
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, menace
-Whenever this creature attacks, each creature able to block it does so.</text>
+This creature must be blocked if able.</text>
     </card>
     <card>
       <name>Puffskein</name>
@@ -516,6 +487,8 @@ Whenever this creature attacks, each creature able to block it does so.</text>
       <tablerow>2</tablerow>
       <text>Squad GG (As an additional cost to cast this spell, you may pay GG any number of times. When this creature enters, create that many tokens that are copies of it.)
 {T}: Puffskein deals 1 damage to target creature with flying.</text>
+      <related>Puffskein Token</related>
+      <related>Revised 12/26/24 see scattershot archer</related>
     </card>
     <card>
       <name>Kneazle</name>
@@ -731,7 +704,7 @@ Whenever a creature attacks you or a permanent you protect, that creature gets -
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Level up 1 ({1}: Put a level counter on this. Level up only as a sorcery.)
+      <text>Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)
 Equipped creature has flying
 Equip {2}
 [level 2] Equipped creature has flying and haste.
@@ -895,7 +868,7 @@ Equip Wizard {1}</text>
     </card>
     <card>
       <name>Winery Cellar</name>
-      <set rarity="uncommon">HPTG</set>
+      <set rarity="common">HPTG</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -905,11 +878,11 @@ Equip Wizard {1}</text>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{T}, Sacrifice Winery Cellar: Search your library for a basic Plains, Swamp, or Forest card, put onto the battlefield tapped, then shuffle.</text>
+{T}, Sacrifice this land: Search your library for a basic Plains, Swamp, or Forest card, put onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
       <name>Castle Heights</name>
-      <set rarity="uncommon">HPTG</set>
+      <set rarity="common">HPTG</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -919,11 +892,11 @@ Equip Wizard {1}</text>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{T}, Sacrifice Castle Heights: Search your library for a basic Plains, Mountain, or Island card, put it onto the battlefield tapped, then shuffle.</text>
+{T}, Sacrifice this land: Search your library for a basic Plains, Mountain, or Island card, put it onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
       <name>Dungeon Depths</name>
-      <set rarity="uncommon">HPTG</set>
+      <set rarity="common">HPTG</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -933,11 +906,11 @@ Equip Wizard {1}</text>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{T}, Sacrifice Dungeon Depths: Search your library for a basic Swamp, Forest, or Island card, put it onto the battlefield tapped, then shuffle.</text>
+{T}, Sacrifice this land: Search your library for a basic Swamp, Forest, or Island card, put it onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
       <name>Adorned Halls</name>
-      <set rarity="uncommon">HPTG</set>
+      <set rarity="common">HPTG</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -947,11 +920,11 @@ Equip Wizard {1}</text>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{T}, Sacrifice Adorned Halls: Search your library for a basic Mountain, Plains, or Forest card, put it onto the battlefield tapped, then shuffle.</text>
+{T}, Sacrifice this land: Search your library for a basic Mountain, Plains, or Forest card, put it onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
       <name>Pureblood Manner</name>
-      <set rarity="uncommon">HPTG</set>
+      <set rarity="common">HPTG</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -961,7 +934,7 @@ Equip Wizard {1}</text>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{T}, Sacrifice Pureblood Manner: Search your library for a basic Swamp, Island, or Mountain card, put it onto the battlefield tapped, then shuffle.</text>
+{T}, Sacrifice this land: Search your library for a basic Swamp, Island, or Mountain card, put it onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
       <name>Introduction to Charms</name>
@@ -1096,7 +1069,7 @@ Incantation Storm (When you cast this spell, copy if for each Incantation cast b
       <tablerow>2</tablerow>
       <text>Ward {2}
 Studious 7 (As long as you have seven or more cards in your hand, this creature gets +7/+0 and is studious.)
-As long as Luna Lovegood is studious, she has first strike and when a creature enters under an opponents control Learn 1. If you drew a card this way, scry 1. (To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
+As long as Luna Lovegood is studious, she has first strike and “Whenever a creature an opponent controls enters, learn.” (To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Draco Malfoy</name>
@@ -1127,7 +1100,7 @@ Sacrifice X artifacts: Search your library for a Incantation card with mana valu
       </prop>
       <tablerow>2</tablerow>
       <text>Harry Potter enters with a Horcrux counter. If this creature would die remove the Horcrux counter instead. Harry Potter gets -3/-1 while he has a Horcrux counter.
-Gallantry X where X is equal to the number of creatures you control that are courageous. (When a creature enters or attacks under an opponent’s control with greater power then this creature and this creature isn’t couageous, put X +1/+1 counters on it and it becomes couageous.)</text>
+Gallant X, where X is equal to the number of creatures you control that are courageous. (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put X +1/+1 counters on this creature and it becomes courageous.)</text>
     </card>
     <card>
       <name>Hermione Granger, Brightest Witch of Her Age</name>
@@ -1141,9 +1114,9 @@ Gallantry X where X is equal to the number of creatures you control that are cou
         <pt>3/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Hermione Granger enters, learn.
-Gallantry 2  (When a creature enters or attacks under an opponent’s control with greater power then this creature and this creature isn’t couageous, put two +1/+1 counters on it and it becomes couageous.)
-As long as Hermione Granger is courageous, she has vigilance and during your draw step, you may search your library for a noncreature nonland card, reveal it, put it into your hand instead of drawing a card. Shuffle your library.</text>
+      <text>When Hermione Granger enters, learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+Gallant 2 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put two +1/+1 counters on this creature and it becomes courageous.)
+As long as Hermione Granger is courageous, she has vigilance and “The first time you would draw a card during each of your turns, you may instead search your library for a noncreature nonland card, reveal it, put it into your hand, then shuffle.”</text>
     </card>
     <card>
       <name>Nymphadora Tonks, Metamorphmagus Auror</name>
@@ -1158,7 +1131,7 @@ As long as Hermione Granger is courageous, she has vigilance and during your dra
       </prop>
       <tablerow>2</tablerow>
       <text>Alteration 3W (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 3W.)
-During your first main phase you may behold a wizard. If you do, until end of turn, Wizard cards in your hand have alteration. Their alteration cost is equal to their mana cost reduced by {3}. (To behold a wizard, choose a wizard you control or reveal a wizard card from your hand.)
+During your first main phase you may behold a Wizard. If you do, until end of turn, Wizard cards in your hand have alteration. Their alteration cost is equal to their mana cost reduced by {3}. (To behold a Wizard., choose a Wizard. you control or reveal a Wizard. card from your hand.)
 Whenever you cast a Wizard spell from the battlefield, that creature enters with a first strike counter.</text>
     </card>
     <card>
@@ -1177,6 +1150,7 @@ Whenever you cast a Wizard spell from the battlefield, that creature enters with
 Trample, menace
 Whenever this creature deals combat damage to another creature, if you control this creature, tap the other creature and put a stun counter on it.
 2RRR, {T}: Blast Ended Screwt deals damage equal to its power divided among any number of target permanents.</text>
+      <related>Blast Ended Screwt Token</related>
     </card>
     <card>
       <name>Obscurial Parasite</name>
@@ -1220,7 +1194,7 @@ Whenever this creature Saddles a Wizard, that creature loses all abilities and g
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>2R: Create a 3/3 red Salamander Beast token with “{R/G} {R/G}, {T}: Regenerate this creature.” and “1R: This creature gets +1/+0 until end of turn.”</text>
+      <text>2R: Create a 3/3 red Salamander Beast token with “R/GR/G, {T}: Regenerate this creature.” and “1R: This creature gets +1/+0 until end of turn.”</text>
     </card>
     <card>
       <name>Oppugno</name>
@@ -1300,6 +1274,9 @@ UBR, {T}, Pay 2 life: Transform Peter Pettigrew, Traitorus Maruader.
       <tablerow>2</tablerow>
       <text>Squad 2G (As an additional cost to cast this spell, you may pay 2G any number of times. When this creature enters, create that many tokens that are copies of it.)
 Whenever this creature enters, return up to one target enchantment or Incantation card from your graveyard to your hand.</text>
+      <related>Bowtruckle Token</related>
+      <related>Reviewed Christmas 2024</related>
+      <related>Revised 12/26/24</related>
     </card>
     <card>
       <name>Whomping Willow</name>
@@ -1395,7 +1372,7 @@ RW: Regenerate Lonesome Phoenix. Put a shield counter on another target creature
       <tablerow>2</tablerow>
       <text>Protection from Beasts.
 Beast spells you cast are Incantations in addition to their other types.
-Whenever you draw a Beast card, you may reveal it. If you do, you may behold a Beast. If you do add WB, BG, or GW. Spend this mana only to cast Beast spells. (To behold a Beast, choose a Beast you control or reveal a Beast card from your hand.)
+Whenever you draw a Beast card, you may reveal it. If you do, you may behold a Beast. If you do add WB, BG, or GW. Spend this mana only to cast Beast spells. (To behold a Beast., choose a Beast. you control or reveal a Beast. card from your hand.)
 Whenever a nontoken Beast creature you control dies, its owner may shuffle it into their library. If they do, you draw a card.</text>
     </card>
     <card>
@@ -1429,7 +1406,7 @@ The first time a Plant you control enters during each of your turns, learn.</tex
       </prop>
       <tablerow>2</tablerow>
       <text>Creature spells you cast cost {1} less to cast.
-Gallantry 2 (When a creature enters or attacks under an opponent’s control with greater power then this creature and this creature isn’t couageous, put two +1/+1 counters on it and it becomes couageous.)
+Gallant 2 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put two +1/+1 counters on this creature and it becomes courageous.)
 As long as Professor Lupin is courageous, Wizards you control have protection from beasts.
 Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 ---
@@ -1495,7 +1472,7 @@ You can’t attack enchanted player or permanents they protect. (Players protect
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When a creature enters under your control, you may behold a wizard. If you do, draw a card. (To behold a wizard, choose a wizard you control or reveal a wizard card from your hand.)</text>
+      <text>When a creature enters under your control, draw a card.</text>
     </card>
     <card>
       <name>Veela Hair Wand</name>
@@ -1749,7 +1726,7 @@ Incantation storm (When you cast this spell, copy if for each Incantation cast b
         <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample, Reach
+      <text>Reach, trample
 4GG, {T}: Create three 1/2 green Spider creature tokens with reach. </text>
     </card>
     <card>
@@ -1766,6 +1743,7 @@ Incantation storm (When you cast this spell, copy if for each Incantation cast b
       <tablerow>2</tablerow>
       <text>Squad 3B (As an additional cost to cast this spell, you may pay 3B any number of times. When this creature enters, create that many tokens that are copies of it.)
 Whenever you commit a crime, each opponent may pay {1}. Each opponent that doesn’t, loses 1 life. You gain life equal to the amount lost this way. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+      <related>Death Eater Token</related>
     </card>
     <card>
       <name>Dobby, the House Elf</name>
@@ -1893,7 +1871,7 @@ Each opponent plays with their hand revealed.
       <tablerow>2</tablerow>
       <text>Flying
 Whenever a creature dies, put a  +1/+1 counter on another target creature.
-When this creature becomes saddled, create a token that is a copy of it.
+The first time this creature becomes saddled each turn, create a 2/2 black Horse Beast creature token with flying.
 Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
     </card>
     <card>
@@ -1908,7 +1886,7 @@ Saddle 1 (Tap any number of other creatures you control with total power 1 or mo
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When another creature you control dies, you may behold a wizard. If you do, each opponent loses 1 life. You gain life equal to the amount lost this way. (To behold a wizard, choose a wizard you control or reveal a wizard card from your hand.)
+      <text>When another creature you control dies, each opponent loses 1 life. You gain life equal to the amount lost this way.
 Whenever you gain life, put a +1/+1 counter on Zacharias Smith unless an opponent discards a card.</text>
     </card>
     <card>
@@ -1925,6 +1903,7 @@ Whenever you gain life, put a +1/+1 counter on Zacharias Smith unless an opponen
       <tablerow>2</tablerow>
       <text>Squad 2B (As an additional cost to cast this spell, you may pay 2B any number of times. When this creature enters, create that many tokens that are copies of it.)
 1BB, {T}: Create a Wizard-Cracker token. (Its an artifact with “{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)</text>
+      <related>Wizard-Cracker Imp Token</related>
     </card>
     <card>
       <name>Chizpurfle Parasite</name>
@@ -2070,7 +2049,7 @@ Equip {3}</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Investigate for each artifact you control.
 II — Whenever you sacrifice a Clue this turn, scry 1.
 III — Return each nonland permanent  you don’t control to its owner’s hand.</text>
@@ -2087,8 +2066,8 @@ III — Return each nonland permanent  you don’t control to its owner’s hand
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When this battle enters, search your library for a historic card or Incantation card, put it into to your hand, then shuffle.
-3U: Create a 1/1 blue Incantation Enchantment creature token named ‘Enchanted Book” with Flying and “Whenever this creature leaves the field, draw a number of cards equal to its power.”.
+When this Siege enters, search your library for a historic card or Incantation card, reveal it, put it into to your hand, then shuffle.
+3U: Create a 1/1 blue Incantation enchantment creature token named Enchanted Book with flying and “When this creature leaves the battlefield, draw a number of cards equal to its power.”.
 ---
 (Back): Hogwart&apos;s Hidden Map Room</text>
       <related attach="transform">Hogwart&apos;s Hidden Map Room</related>
@@ -2126,7 +2105,7 @@ When this battle enters, search your library for a historic card or Incantation 
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-Whenever damage is dealt to this Battle, its owner scrys 1 and draw a card.
+Whenever damage is dealt to this Siege, scry 1, then draw a card.
 ---
 (Back): Mystified Archway</text>
       <related attach="transform">Mystified Archway</related>
@@ -2172,6 +2151,7 @@ If a permanent card would be put into a graveyard from anywhere, exile it instea
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
+When this Siege enters, exile up to one target multicolored permanent.
 ---
 (Back): Mirror of Erised</text>
       <related attach="transform">Mirror of Erised</related>
@@ -2234,7 +2214,7 @@ Return up to X target creature cards from your graveyard to the battlefield. The
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When this battle enters, create X 2/1 black Skeleton creature tokens.
+When this Siege enters, create X 2/1 black Skeleton creature tokens.
 ---
 (Back): Charmed Skeleton</text>
       <related attach="transform">Charmed Skeleton</related>
@@ -2266,12 +2246,12 @@ Whenever an opponent casts a spell except during their turn, create a 2/1 black 
         <cmc>5</cmc>
         <type>Artifact Creature - Incantation Beast </type>
         <maintype>Creature</maintype>
-        <pt>5/3</pt>
+        <pt>7/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Alteration RR (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for RR.)
-Double strike, trample
-Discard a red card: Regenerate Flame Infused Armour.  
+Trample
+Discard a red card: Regenerate this creature.
 If this creature was cast from the battlefield, you may draw two cards. If you do, discard a card.</text>
     </card>
     <card>
@@ -2286,7 +2266,7 @@ If this creature was cast from the battlefield, you may draw two cards. If you d
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When this battle enters, search your library for a Mountain land card, put it onto the battlefield tapped, then shuffle. This battle deals damage to any target equal to the number of Mountains you control.
+When this Siege enters, search your library for a Mountain land card, put it onto the battlefield tapped, then shuffle. This Siege deals damage equal to the number of Mountains you control to any target.
 ---
 (Back): Foreboding Warning</text>
       <related attach="transform">Foreboding Warning</related>
@@ -2320,7 +2300,7 @@ Foreboding Warning deals 3 damage to each creature.
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
 Artifacts you control have indestructible.
-Whenever this Battle is dealt damage, create that many Treasure tokens.
+Whenever this Siege is dealt damage, create that many tapped Treasure tokens.
 ---
 (Back): Wounded Ukranian Iron Belly</text>
       <related attach="transform">Wounded Ukranian Iron Belly</related>
@@ -2338,7 +2318,7 @@ Whenever this Battle is dealt damage, create that many Treasure tokens.
       <tablerow>2</tablerow>
       <text>Flying, haste
 This creature gets +1/+1 for each Treasure you control.
-Whenever this creature attacks while saddled, create a treasure token for each creature that saddled it. Then this creature deals damage equal to its power to any target.
+Whenever this creature attacks while saddled, create a tapped Treasure token for each creature that saddled it this turn. Then this creature deals damage equal to its power to any target.
 Saddle 8
 ---
 (Front): Journey Beneath Gringotts Bank</text>
@@ -2353,12 +2333,13 @@ Saddle 8
         <cmc>1</cmc>
         <type>Legendary Creature - Spirit </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying, haste
-Gallantry 1. (When a creature enters or attacks under an opponent’s control with greater power then this creature and this creature isn’t couageous, put a +1/+1 counter on it and it becomes couageous.)
-When Nearly Headless Nick becomes courageous or dies, you may have it deal damage equal to its power to any target. If you do, shuffle Nearly Headless Nick and another creature you control into its owner’s library.</text>
+      <text>Haste
+Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
+Nearly Headless Nick has flying as long as he is courageous.
+When Nearly Headless Nick becomes courageous, you may sacrifice him. If you do, he deals damage equal to his power to any target.</text>
     </card>
     <card>
       <name>Pestis Incendium</name>
@@ -2385,7 +2366,7 @@ Pestis Incendium deals X damage to each creature, where X is the number of other
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Investigate for each creature target opponent controls.
 II — Until end of turn you whenever you sacrifice a clue, you may draw two cards instead. If you do, discard a card.
 III — Each tapped creature deals damage to its controller and itself equal to its power.</text>
@@ -2431,7 +2412,7 @@ Landfall — When a land you control enters, creatures you control get +1/+1 unt
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Put a +1/+1 counter on each creature you control. Then investigate for each creature you control.
 II — For each creature you control, you may have it fight up to one target creature you don’t control.  (Each deals damage equal to its power to the other.)
 III — Search your library for a creature card, put it onto the battlefield tapped, then shuffle.</text>
@@ -2448,7 +2429,7 @@ III — Search your library for a creature card, put it onto the battlefield tap
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-Whenever this battle is dealt damage, investigate.
+Whenever this Siege is dealt damage, investigate.
 ---
 (Back): Hermione&apos;s Time Turner</text>
       <related attach="transform">Hermione&apos;s Time Turner</related>
@@ -2481,7 +2462,7 @@ Whenever this battle is dealt damage, investigate.
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Gallantry 2 (When a creature enters or attacks under an opponent’s control with greater power then this creature and this creature isn’t couageous, put two +1/+1 counters on it and it becomes couageous.)
+Gallant 2 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put two +1/+1 counters on this creature and it becomes courageous.)
 As long as Ron Weasley is courageous, he has first strike and reach, also whenever you cast a noncreature spell, Ron Weasley deals damage to any target equal to the number of creatures you control that are courageous.</text>
     </card>
     <card>
@@ -2553,7 +2534,7 @@ When this creature deals damage to a creature,  put a stun counter on it.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Investigate. Whenever one or more creatures leave the battlefield this turn, investigate
 II — Put a petrification counter on each of up to X target creatures, where X is the number of Clues you control. They gain defender and becomes colorless artifacts in addition to their other types. Their activated abilities can’t be activated.
 III — Return up to one target creature card from your graveyard to the battlefield.</text>
@@ -2616,8 +2597,8 @@ Whenever you cast a Incantation spell, untap Quirinus Quirrell.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When this battle enters, choose target creature controlled by the player protecting this battle.
-Whenever damage is dealt to this battle, create a token copy of the chosen creature. Sacrifice that creature when this battle leaves the battlefield.
+When this Siege enters, choose a creature protecting player controls.
+Whenever damage is dealt to this Siege, create a token copy of target creature chosen with this Siege. When this Siege leaves the battlefield, sacrifice that token.
 ---
 (Back): Honor the Fallen Ally</text>
       <related attach="transform">Honor the Fallen Ally</related>
@@ -2632,7 +2613,7 @@ Whenever damage is dealt to this battle, create a token copy of the chosen creat
         <type>Instant</type>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose target opponent. That player sacrifices a nontoken creature they control chosen at random. At the beginning of your next precombat main phase, add X mana in any combination of colors, where X is the sacrificed creatures mana value.
+      <text>Target opponent sacrifices a nontoken creature chosen at random. At the beginning of your next precombat main phase, add X mana in any combination of colors, where X is the sacrificed creatures mana value.
 ---
 (Front): Flight of the Seven Potters</text>
       <related attach="transform">Flight of the Seven Potters</related>
@@ -2649,7 +2630,7 @@ Whenever damage is dealt to this battle, create a token copy of the chosen creat
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When an opponent commits a crime, you may behold a wizard. If you do target creature gains power equal to this creature’s power and gains reach until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. To behold a wizard, choose a wizard you control or reveal a wizard card from your hand.)</text>
+      <text>When an opponent commits a crime, target creature gains power equal to this creature’s power and gains reach until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
     <card>
       <name>Bundimun</name>
@@ -2909,7 +2890,8 @@ Whenever this creature attacks, any player may pay {X}, where X is this creature
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until end of turn when ever a creature enters, search your library for a land and put it onto the battlefield tapped then learn (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
+      <text>Whenever a creature you control enters this turn, search your library for a land card, put it onto the battlefield tapped, shuffle.
+Learn (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Furnunculus</name>
@@ -3048,6 +3030,8 @@ Scry 2. Draw four cards. Then put two cards from your hand on top of your librar
       <text>Squad RW (As an additional cost to cast this spell, you may pay RW any number of times. When this creature enters, create that many tokens that are copies of it.)
 This creature and each token copy of it enter with a shield on them if you created at least one token copy.
 All creatures able to block this creature do so.</text>
+      <related>Red Cap Tower Guard Token</related>
+      <related>Revised 1/30/25</related>
     </card>
     <card>
       <name>Mrs Norris</name>
@@ -3192,7 +3176,7 @@ XX: This creature gets +X/+0 until end of turn.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you commit a crime, equipped creature gets +1/+1 until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+      <text>Whenever you commit a crime, equipped creature gets +1/+1 and gains menace until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
 Equip {3}
 Equip Wizard {U/B/R}</text>
     </card>
@@ -3207,7 +3191,7 @@ Equip Wizard {U/B/R}</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you cast a Incantation spell, equipped creature gets +1/+1 until end of turn.
+      <text>Whenever you cast an Incantation or Wizard spell, equipped creature gets +1/+1 until end of turn.
 Equip {3}
 Equip Wizard {R/W/U}</text>
     </card>
@@ -3238,7 +3222,7 @@ Equip Wizard {G/U/B}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>As this Equipment enters, choose a creature type.
-Whenever you behold a creature of the chosen type, equipped creature gets +1/+1 until end of turn. (To behold a creature, choose a creature you control or reveal a creature card from your hand.)
+Whenever equipped creature attacks, you may behold a creature of the chosen type. If you do, put a +1/+1 counter on equipped creature.
 Equip {3}
 Equip Wizard {B/G/W}</text>
     </card>
@@ -3413,9 +3397,9 @@ Gets +1/+1 for each wizard you control.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — You gain 1 life for each other permanent you control.
-Ordinary Wizarding Level Examinations gains “Creatures you control have studious 5 “ (As long as you have five or more cards in your hand, this creature gets +5/+0 and is studious.)
+This Saga gains “Creatures you control have studious 5 “ (As long as you have five or more cards in your hand, this creature gets +5/+0 and is studious.)
 II — You and permanents you control gain hexproof until your next turn. Creatures can’t attack you during their controller’s next turn.
 III — Exile all creatures that aren’t studious.</text>
     </card>
@@ -3470,7 +3454,7 @@ Create X 3/3 Golem artifact creature tokens, where X is the number of other Inca
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text></text>
+      <text>Search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Beneath Hogwarts Plumbing</name>
@@ -3484,7 +3468,7 @@ Create X 3/3 Golem artifact creature tokens, where X is the number of other Inca
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-Whenever Beneath Hogwarts Plumbing is dealt combat damage by a creature, put a stun counter on target creature an opponent controls, then investigate.
+Whenever this Siege is dealt combat damage by a creature, put a stun counter on target creature an opponent controls, then investigate.
 ---
 (Back): Salazar Slytherin&apos;s Basilisk</text>
       <related attach="transform">Salazar Slytherin&apos;s Basilisk</related>
@@ -3591,7 +3575,7 @@ During your upkeep if Cho Chang is studious, then she gains flying and when you 
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text></text>
+      <text>Introduction to Defence Against the Dark Arts deals 3 damage to any target.</text>
     </card>
     <card>
       <name>Intoduction to Potions</name>
@@ -3674,8 +3658,9 @@ Search your library for a card with Alteration, reveal it, put it into your hand
         <pt>6/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>This creature can deal excess combat damage to any target.
-If this creature is blocked and doesn’t deal any excess damage, you may pay 1R. If you do destroy target artifact.</text>
+      <text>Whenever this creature deals excess combat damage, choose one —
+• You may have this creature deal damage equal to the excess to any target.
+• You may pay 1R. If you do destroy target artifact.</text>
     </card>
     <card>
       <name>Portable Swamp</name>
@@ -3688,7 +3673,7 @@ If this creature is blocked and doesn’t deal any excess damage, you may pay 1R
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>As long as this artifact is tapped, lands you control have “ {T}: Add {B} or {G} or {U}.”
+      <text>As long as this artifact is tapped, lands you control have “{T}: Add {B} or {G} or {U}.”
 {T}, Pay X life: Return X lands to their owner’s hand. Then if that player controls no lands, sacrifice this artifact.</text>
     </card>
     <card>
@@ -3716,7 +3701,7 @@ If this creature is blocked and doesn’t deal any excess damage, you may pay 1R
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Quidditch Match gains “Wizards have flying”
 II — Quidditch Match gains “Wizards get +1/+1.”
 Up to one target Wizard you control deal damage equal to its power to another target Wizard.
@@ -3824,8 +3809,8 @@ Finite Incantatem deals damage to that spell’s controller equal to the number 
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Each player learns. Nastily Exhausting Wizarding Tests gains “Creatures you control have studious 7” (As long as you have seven or more cards in your hand, this creature gets +7/+0 and is studious.)
+      <text>
+I — Each player learns. This Saga gains “Creatures you control have studious 7” (As long as you have seven or more cards in your hand, this creature gets +7/+0 and is studious.)
 II — This Saga gains “Creatures can’t attack you or permanents you protect unless their controller pays {X}, where X is the number of cards in your hand for each creature they control that’s attacking this way.” 
 III — You gain X life and draw X cards, where X is the total combined power of creatures you control. You have no maximum hand size the rest of the game.</text>
     </card>
@@ -3840,7 +3825,7 @@ III — You gain X life and draw X cards, where X is the total combined power of
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Each player investigates three times.
 II — This Saga gains “Creatures can’t attack as long as their controller controls a Clue and you control this Saga.”
 III — Each player puts a number of +1/+1 counters on each creature they control equal to the number of Clue permanents they control.</text>
@@ -3882,7 +3867,7 @@ III — Each player puts a number of +1/+1 counters on each creature they contro
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature has gallantry 1  (When a creature enters or attacks under an opponent’s control with greater power then this creature and that creature isn’t couageous, put a +1/+1 counter on it and it becomes couageous.)
+      <text>Equipped creature has gallant 1. (Whenever a creature an opponent controls with greater power enters or attacks and that creature isn’t courageous, put a +1/+1 counter on that creature and it becomes courageous.)
 As long as the equipped creature is courageous, during each of your draw steps, draw an additional card for each creature that is courageous.
 Equip {4}
 Equip Wizard {R/G/W}</text>
@@ -3945,8 +3930,8 @@ LEVEL 3+
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature gets +0/+1.
-When damage would be dealt to equipped creature, prevent one of that damage.
-When a potion enters under your control, you may attach this card to target creature you control.
+If damage would be dealt to equipped creature, prevent 1 of that damage.
+Whenever a Potion you control enters, you may attach this Equipment to target creature you control.
 Equip {2}</text>
     </card>
     <card>
@@ -3991,8 +3976,7 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. )
-Whenever damage is dealt to this battle, put that many time counters on this battle. 
-When this card is exiled return it to the battlefield transformed with a number of time counters equal to the number of time counters that were on this card.
+When this Siege is defeated, the next time you cast this card transformed this turn, as it resolves, you may have it enter with a number of +1/+1 counters equal to the amount of damage dealt to this Siege this turn.
 ---
 (Back): Weasley Ford Angela</text>
       <related attach="transform">Weasley Ford Angela</related>
@@ -4008,11 +3992,10 @@ When this card is exiled return it to the battlefield transformed with a number 
       </prop>
       <tablerow>1</tablerow>
       <text>Flying, trample
-Weasley Ford Angela’s power and toughness are each equal to the number of time counters on it.
-Weasley Ford Angela enters with a time counter on it.
-Whenever you crew Weasley Ford Angela, put a time counter on it.
-At the beginning of your upkeep, remove a time counter from Weasley Ford Angela. When the last is removed shuffle it into your library.
-Crew 2 
+Whenever Weasley Ford Angela becomes a creature, put a +1/+1 counter on it.
+At the beginning of your upkeep, remove +1/+1 counter from Weasley Ford Angela.
+When this Vehicle is put into your graveyard from the battlefield, its owner may shuffle it into their library.
+Crew 2
 ---
 (Front): Follow the Spiders</text>
       <related attach="transform">Follow the Spiders</related>
@@ -4029,7 +4012,8 @@ Crew 2
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of each opponents upkeep, put a -1/-1 counter target creature that player controls. 
-2B: Create a 2/2 black and red Wizard Werewolf creature token named Snatcher with haste. If {R} was paid to activate this ability, create two of those token instead. This ability costs {1} less for each creature that died this turn.</text>
+2B: Create a 2/2 black and red Werewolf Wizard creature token named Snatcher with haste. If {R} was paid to activate this ability, create two of those token instead. This ability costs {1} less for each creature that died this turn.</text>
+      <related>Snatcher</related>
     </card>
     <card>
       <name>The British Prime Minister</name>
@@ -4063,7 +4047,7 @@ Whenever a Wizard enters, Scry x, where X is equal to that creatures mana value.
 When Frank Bryce enters or creature dies, search you library for a basic land card. If that card could produce mana of a color that land you control could produce, put that card onto the battlefield tapped, otherwise add it to your hand, then shuffle your library.</text>
     </card>
     <card>
-      <name>The Dursleys, Anit-Magic Enthusiasts </name>
+      <name>The Dursleys, Anti-Magic Enthusiasts</name>
       <set rarity="uncommon">HPTG</set>
       <prop>
         <colors></colors>
@@ -4090,7 +4074,7 @@ Whenever The Dursleys attacks, put a -1/-1 counter on a creature defending playe
       </prop>
       <tablerow>3</tablerow>
       <text>Alteration 2W (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 2W.)
-Create two 1/1 white Bird creature tokens with flying. If Avifors was cast from the battlefield, create six of those tokens instead.</text>
+Create two 1/1 white Bird creature tokens with flying. If Avifors was cast from the battlefield, create four of those tokens instead.</text>
     </card>
     <card>
       <name>Locomotor Mortis</name>
@@ -4117,9 +4101,8 @@ Incantation storm (When you cast this spell, copy if for each Incantation cast b
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose flying, deathtouch, or lifelink as you cast this spell.
-Target creatures get -1/-0 and gain the chosen ability until end of turn.
-Incantation storm (When you cast this spell, copy if for each Incantation cast before it this turn. You may choose new targets for the copies.) (When you cast this spell, copy if for each Incantation cast before it this turn. You may choose new targets for the copies.)</text>
+      <text>Choose deathtouch, flying, or lifelink. Target creature gets -1/-0 and gains the chosen ability until end of turn.
+Incantation storm (When you cast this spell, copy if for each Incantation cast before it this turn. You may choose new targets for the copies.)</text>
     </card>
     <card>
       <name>Animated Torch</name>
@@ -4212,8 +4195,8 @@ Incantation storm (When you cast this spell, copy if for each Incantation cast b
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Gallantry 1 (When a creature enters or attacks under an opponent’s control with greater power then this creature and this creature isn’t couageous, put a +1/+1 counter on it and it becomes couageous.)
-As long as this creature is courageous, it has first strike.</text>
+      <text>Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
+This creature has first strike as long as it’s courageous.</text>
     </card>
     <card>
       <name>Auror Scout</name>
@@ -4227,7 +4210,7 @@ As long as this creature is courageous, it has first strike.</text>
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, you may behold a Wizard. If you do, investigate a number of times equal to that cards mana value.  (To behold a Wizard, choose a Wizard you control or reveal a Wizard card from your hand.)</text>
+      <text>When this creature enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)</text>
     </card>
     <card>
       <name>Auror Tracker</name>
@@ -4256,7 +4239,7 @@ As long as this creature is studious, It has at the beginning of each end step, 
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When this battle enters, exile up to one target creature with power 4 or greater.
+When this Siege enters, exile up to one target creature with power 4 or greater.
 ---
 (Back): The Elder Wand</text>
       <related attach="transform">The Elder Wand</related>
@@ -4307,7 +4290,7 @@ Equip Legendary {3}
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Gallantry 1. (When a creature enters or attacks under an opponent’s control with greater power then this creature and this creature isn’t couageous, put a +1/+1 counter on it and it becomes couageous.)
+Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
 Whenever this creature attacks while saddled, put a +1/+1 counter on each creature that saddled it this turn. If this creature is courageous, you may put those counters on each creature you control instead and creatures you control gain flying until end of turn.
 Saddle 2</text>
     </card>
@@ -4367,7 +4350,7 @@ Sacrifice Expecto Patronum: Scry 2</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When The Fat Friar enters, you may behold a Wizard. If you do, create a number of Food tokens equal to that card’s power. (To behold a Wizard, choose a Wizard you control or reveal a Wizard card from your hand. A Food token is an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+When The Fat Friar enters, you may behold a Wizard. If you do, create a number of Food tokens equal to that card’s power. (To behold a Wizard., choose a Wizard. you control or reveal a Wizard. card from your hand. A Food token is an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
     </card>
     <card>
       <name>Fianto Duri</name>
@@ -4424,7 +4407,7 @@ Put two -1/-1 counters on this creature: Put a shield counter on another target 
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, choose one :
-• Beast — At the beginning of your first main phase, you may behold a beast. If you do, until end of turn, put a +1/+1 counter whenever a beast enters the battlefield. (To behold a beast, choose a beast you control or reveal a beast card from your hand.)
+• Beast — At the beginning of your first main phase, you may behold a beast. If you do, until end of turn, put a +1/+1 counter whenever a beast enters the battlefield. (To behold a beast., choose a beast. you control or reveal a beast. card from your hand.)
 • Wizard —  At the beginning of your first main phase,you may behold a Wizard. If you do, you gain life equal to that cards converted mana cost.</text>
     </card>
     <card>
@@ -4439,7 +4422,7 @@ Put two -1/-1 counters on this creature: Put a shield counter on another target 
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>During each upkeep, you may behold a wizard. If you do, create a Food token. (To behold a wizard, choose a wizard you control or reveal a wizard card from your hand. A Food token is an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+      <text>At the beginning of your upkeep, you may behold a Wizard. If you do, create a Food token. (To behold a Wizard., choose a Wizard. you control or reveal a Wizard. card from your hand. A Food token is an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
     </card>
     <card>
       <name>Magicus Extremos</name>
@@ -4500,7 +4483,7 @@ When this creature transforms into Padfoot, Protective Marauder, it cannot be bl
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Gallantry 1  (When a creature enters or attacks under an opponent’s control with greater power then this creature and this creature isn’t couageous, put a +1/+1 counter on it and it becomes couageous.)
+      <text>Gallant 1  (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
 As long as Sirius Black is courageous, each other creature that is courageous gets +1/+1 and has lifelink and vigilance.
 2W: Transform Sirius Black, Angered Outcast.
 ---
@@ -4535,7 +4518,7 @@ When this enchantment leaves the battlefield, remove all stun counters from all 
       <tablerow>2</tablerow>
       <text>Lifelink
 Whenever a creature enters or leaves the battlefield, you gain 1 life.
-Put a stun counter on Poppy Pomfrey, {T}: Regenerate each creature you control.</text>
+{T}, Put a stun counter on Poppy Pomfrey: Regenerate each creature you control.</text>
     </card>
     <card>
       <name>Procure The Philosopher&apos;s Stone</name>
@@ -4548,7 +4531,7 @@ Put a stun counter on Poppy Pomfrey, {T}: Regenerate each creature you control.<
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Investigate for each enchantment you control.
 II — Whenever a creature you control leaves the battlefield this turn, investigate.
 III — For each Clue token you control, create a Treasure token.</text>
@@ -4592,7 +4575,7 @@ Lesson cycling {2} (Discard this card. You may reveal a lesson card you own from
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Stupefy deals 2 damage to target creature. Tap creatures dealt damage this way.
+      <text>Stupefy deals 2 damage to target creature. Tap that creature.
 Incantation storm (When you cast this spell, copy if for each Incantation cast before it this turn. You may choose new targets for the copies.)</text>
     </card>
     <card>
@@ -4622,10 +4605,11 @@ When Sybill Trelawney has thirteen or more divination counters on her, exile her
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When this battle enters, create X Ministry Tribunal tokens, they’re 2/2 white wizard creature tokens with vigilance.
+When this Siege enters, create X Ministry Tribunal tokens, they’re 2/2 white Wizard creature tokens with vigilance.
 ---
 (Back): March of Dumbledore&apos;s Army</text>
       <related attach="transform">March of Dumbledore&apos;s Army</related>
+      <related>Ministry Tribunal</related>
     </card>
     <card>
       <name>March of Dumbledore&apos;s Army</name>
@@ -4637,10 +4621,11 @@ When this battle enters, create X Ministry Tribunal tokens, they’re 2/2 white 
         <type>Sorcery</type>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create X Student tokens, where X is equal to the number of creatures on the battlefield, then put a lifelink counter on each student token you control. You gain life equal to the number of creatures you control. (They’re 1/1 Wizard Human creatures that are the same color as the card that created them with “Studious 1.”)
+      <text>Create X 1/1 white Student creature tokens with Studious 1, where X is the number of creatures on the battlefield, put a lifelink counter on each token created this way. Then you gain 1 life for each creature you control. (As long as you have one or more cards in your hand, this creature gets +1/+0 and is studious.)
 ---
 (Front): Trial of the Wizengamot</text>
       <related attach="transform">Trial of the Wizengamot</related>
+      <related>Ministry Tribunal</related>
     </card>
     <card>
       <name>The Wand Chooses the Wizard</name>
@@ -4779,7 +4764,7 @@ At the beginning of your upkeep pay {2}. If you don’t transform this enchantme
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{2}, {T}: Behold a non-token permanent then activate the following ability based on the chosen permanent’s type. (To behold a permanent, choose a non-token permanent you control or reveal a permanent card from your hand.) 
+      <text>{2}, {T}: Behold a permanent. Then do the following depending on the types of beheld permanent.  (To behold a permanent., choose a permanent. you control or reveal a permanent. card from your hand.)
 Artifact — Create a Treasure token.
 Creature — Create a Food token.
 Enchantment — Investigate.</text>
@@ -4828,4 +4813,42 @@ As long as Marietta Edgecomb is studious, during each opponents end step, this c
       </prop>
       <tablerow>1</tablerow>
       <text>G/U/BG/U/BG/U/B:Sacrifice this artifact. The next creature that enters under your control, enters with your coice of an Islandwalk counter or a swampwalk counter. (A creature with a islandwalk counter has Islandwalk. The same is true for a swampwalk counter giving the creature swampwalk.)</text>
+    </card>
+    <card>
+      <name>Albus Dumbledore</name>
+      <set rarity="mythic" splitterPath="/Albus Dumbledore.png" >HPTG</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost>RGWU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an Incantation spell, discover X, where X is that spell’s mana value. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+When Albus Dumbledore dies or is put into exile, return him to the battlefield transformed.
+---
+(Back): Albus Dumbledore, Death Embodied</text>
+      <related attach="transform">Albus Dumbledore, Death Embodied</related>
+    </card>
+    <card>
+      <name>Albus Dumbledore, Death Embodied</name>
+      <set rarity="mythic" splitterPath="/Albus Dumbledore, Death Embodied.png" >HPTG</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Albus </type>
+        <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your draw step, draw an additional card.
+[+1]: Learn (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+[-3]: Put a shield counter on target Wizards you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+[-6]: You get an emblem with “Creatures you control have ward X, where X is this creature’s power.” (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays X.)
+[-6]: You get an emblem with “Creatures you control have ward X, where X is this creature’s power.” (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays X.)
+---
+(Front): Albus Dumbledore</text>
+      <related attach="transform">Albus Dumbledore</related>
     </card>

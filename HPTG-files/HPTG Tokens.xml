@@ -37,9 +37,9 @@ Theme: Bolstering creatures on the field</text>
       <text>THE DARK ARTS UBR
 Commit a crime (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
 GRYFFINDOR RGW 
-*Gallantry X (When a creature enters or attacks under an opponent’s control with greater power then this creature and that creature isn’t couageous, put X +1/+1 counters on it and it becomes couageous.)
+*Gallant X (Whenever a creature an opponent controls with greater power enters or attacks and that creature isn’t courageous, put X +1/+1 counters on that creature and it becomes courageous.)
 HUFFLEPUFF WBG
-Behold a Beast, plant, or Wizard (To behold a Beast, choose a Beast you control or reveal a Beast card from your hand.)
+Behold a Beast, plant, or Wizard (To behold a Beast, plant, or Wizard, choose a Beast, plant, or Wizard you control or reveal a Beast, plant, or Wizard card from your hand.)
 RAVENCLAW URW 
 *Studious X (As long as you have X or more cards in your hand, this creature gets +X/+0 and is studious.)
 As long as this creature is studious, effect.
@@ -58,11 +58,11 @@ Alteration {X} (You may cast this face down as a 2/2 creature for {3}. Its contr
       <set>HPTG</set>
       <prop>
         <colors></colors>
-        <type>Token Artifact</type>
+        <type>Token Artifact - Portkey </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text> {2}, Sacrifice this artifact: Target creature you control phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+      <text>{2}, Sacrifice this artifact: Target creature you control phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
       <token>1</token>
     </card>
     <card>
@@ -70,11 +70,11 @@ Alteration {X} (You may cast this face down as a 2/2 creature for {3}. Its contr
       <set>HPTG</set>
       <prop>
         <colors></colors>
-        <type>Token Artifact</type>
+        <type>Token Artifact - Food </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{2}, Sacrifice this artifact:You gain 3 life.</text>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
       <token>1</token>
     </card>
     <card>
@@ -82,7 +82,7 @@ Alteration {X} (You may cast this face down as a 2/2 creature for {3}. Its contr
       <set>HPTG</set>
       <prop>
         <colors></colors>
-        <type>Token Artifact</type>
+        <type>Token Artifact - Treasure </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
@@ -120,7 +120,7 @@ Whenever this creature leaves the field, draw a number of cards equal to its pow
       <set>HPTG</set>
       <prop>
         <colors></colors>
-        <type>Token Artifact</type>
+        <type>Token Artifact - Clue </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
@@ -240,6 +240,59 @@ Decayed. (This creature can’t block. When it attacks, sacrifice it at end of c
       <text>Squad RW
 This creature and each token copy of it enter with a shield on them if you created at least one token copy.
 All creatures able to block this creature do so.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Snatcher</name>
+      <set>HPTG</set>
+      <prop>
+        <colors>BR</colors>
+        <type>Token Creature - Werewolf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Ministry Tribunal</name>
+      <set>HPTG</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Student</name>
+      <set>HPTG</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Studious 1 (As long as you have one or more cards in your hand, this creature gets +1/+0 and is studious.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bowtruckle Token</name>
+      <set>HPTG</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Plant Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad 2G
+Whenever this creature enters, return up to one target enchantment or Incantation card from your graveyard to your hand.</text>
       <token>1</token>
     </card>
 
