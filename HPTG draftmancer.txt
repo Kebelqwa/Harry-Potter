@@ -1830,14 +1830,14 @@
 	        }
 	    },
 	    {
-	        "name": "Mrs. Norris",
+	        "name": "Mrs Norris",
 	        "mana_cost": "{B}{G}",
 	        "type": "Legendary Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mrs. Norris.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Harry-Potter/main/HPTG-files/Mrs Norris.png"
 	        },
 	        "printed names": {
-	            "en": "Mrs. Norris"
+	            "en": "Mrs Norris"
 	        },
 	        "back": {
 	            "name": "Argus Filch, Dungeons Caretaker",
@@ -3338,7 +3338,7 @@
 		6 Onyx Firecrab
 		6 Emerald Fire Crab
 		6 Rescue from Captivity
-		6 Mrs. Norris
+		6 Mrs Norris
 		6 Serpent Tongued Ambush
 		6 Fanged Frisbee
 		6 Dark Wizard Robes
